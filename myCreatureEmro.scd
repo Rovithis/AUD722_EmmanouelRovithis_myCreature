@@ -1,7 +1,8 @@
 /* AUD 722 _2025-2026
 Final Project: Sound Creature
 author: Emmanouel Rovithis
-last updated: 22/12/25
+last update: 22/12/25
+last commit: 22/12/25
 */
 
 s.boot;
